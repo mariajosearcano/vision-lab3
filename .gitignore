@@ -5,4 +5,4 @@ imgs/img_water/
 imgs/img_registered/
 imgs/img_dataset/
 imgs/GroundTruth.png
-imgs/img/
+imgs/img/*.tiff
